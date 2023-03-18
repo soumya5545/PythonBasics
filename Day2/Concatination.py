@@ -1,0 +1,14 @@
+# #int+int
+# print(5+4)#9
+# #int+float
+# print(5+6.5)#11.5
+# #int+bool
+# print(5+True)#6
+# #int+str
+# print(5+"welcome")#error
+# #str+str
+# print("5"+"welcome")#5welcome
+# #float+sr
+# print(5.4+"welcome")#error
+# #bool+str
+# print(True+"welcome")
